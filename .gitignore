@@ -1,0 +1,10 @@
+# Executables
+bin/
+*.exe
+*.so
+*.dll
+*.slo
+
+# Build directory
+build/
+
